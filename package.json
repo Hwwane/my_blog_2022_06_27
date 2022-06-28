@@ -1,9 +1,8 @@
 {
-  "name": "my-blog-2022-06-27",
+  "name": "my-blog-2022-05-31",
   "version": "1.0.0",
   "private": true,
-  "description": "my-blog-2022-06-27",
-  "author": "Dot",
+  "description": "my-blog-2022-05-31",
   "keywords": [
     "gatsby"
   ],
@@ -15,7 +14,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.17.1",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "gatsby": "^4.15.1",
+    "gatsby-plugin-image": "^2.15.0",
+    "gatsby-plugin-mdx": "^3.17.0",
+    "gatsby-plugin-sharp": "^4.15.0",
+    "gatsby-source-filesystem": "^4.15.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
